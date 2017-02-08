@@ -7,5 +7,6 @@ namespace asp_mvc_3.Models.ViewModel
 {
     public class UserModel
     {
+
     }
 }
